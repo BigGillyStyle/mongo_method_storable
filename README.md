@@ -27,6 +27,7 @@ def some_method
   # complex/expensive algorithm
 end
 mongo_store :some_method
+```
 
 ## Limitations
 
